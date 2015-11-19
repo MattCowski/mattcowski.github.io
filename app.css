@@ -31,23 +31,23 @@ body {
 
 
 
-.a-little-high-light {
+.inspect-element {
 /*   padding: 0 15px; */
 border: 15px solid rgba(255, 255, 0, 0.35);
     background: rgba(0, 109, 204, 0.35);
 /*   background: rgba(255, 127, 0, 0.4); */
 }
-.row:first-child > .a-little-high-light {
+.row:first-child > .inspect-element {
 /*   background: #265d8c; */
 /*   background: rgba(0, 109, 204, 0.4); */
   border-top: 0px;
 }
 /* 
 @media (max-width: 815px) {  
-  .a-little-high-light .col-md-10 {
+  .inspect-element .col-md-10 {
     background: rgb(0, 109, 204);
   }
-  .a-little-high-light {
+  .inspect-element {
     padding: 0 15px;
     background:red;
   }
